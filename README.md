@@ -50,5 +50,3 @@ truffle migrate
 ```
 
 Built with Truffle and OpenZeppelin.
-
-Published under MIT license.
